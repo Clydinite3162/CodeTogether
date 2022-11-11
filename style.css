@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    background-color: #5b69ff;
+    font-family: consolas, system-ui;
+    border-radius: 10px;
+    margin: 10px auto 20px auto;
+    padding: 10px;
+    font-size: 50px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+ul {
+    list-style-type: square;
+}
+
+h3{
+    font-size: 32px;
+    background-color: #5b69ff;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 24px;
+    margin: 0px;
+    display: inline;
+    font-size: 24px;
+    font-family: consolas, system-ui;
+}
+
+li{
+    font-size: 24px;
+}
+
+div.container {
+    display: flex;
+}
+
+div.text{
+    width: 600px;
+    max-width: 60%;
+    margin: auto;
+}
+
